@@ -25,11 +25,11 @@
   "license": "BSD-3-Clause",
   "dependencies": {
     "async": "^1.5.0",
-    "babel-core": "^5.8.21",
+    "babel-core": "^6.9.0",
     "babel-runtime": "^5.6.18",
     "cli-color": "^1.0.0",
     "es6-promise": "^3.0.0",
-    "lodash": "^3.5.0",
+    "lodash": "^4.17.5",
     "node-dir": "0.1.8",
     "nomnom": "^1.8.1",
     "recast": "^0.10.32"
